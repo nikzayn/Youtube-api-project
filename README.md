@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/nikzayn/Youtube-api-project.git
-> cd ReduxSimpleStarter
+> cd Youtube-api-project
 > npm install
 > npm start
 ```
